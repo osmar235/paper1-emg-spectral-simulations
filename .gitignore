@@ -1,0 +1,16 @@
+# Never commit human data or local paths
+private_data*/
+Paper1_raw_data/
+RAW_PRIVATE*/
+*TF90_PRE_EMG.txt
+*.fastq*
+*.venv/
+.venv/
+__pycache__/
+*.pyc
+outputs/
+*_local/
+.env
+*.pem
+*.key
+**/RUNNING_NOT_FINISHED.txt
