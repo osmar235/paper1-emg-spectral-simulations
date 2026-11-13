@@ -1,11 +1,12 @@
 cff-version: 1.2.0
-message: "Please cite the versioned Zenodo release of this software and the accompanying paper after publication."
+message: "Please cite the versioned Zenodo software release (DOI: 10.5281/zenodo.24187981); cite the accompanying paper once published."
 title: "Surface EMG spectral-rescaling and bilateral motor-unit simulation controls (Paper 1)"
 type: software
 authors:
   - family-names: "Pinto Neto"
     given-names: "Osmar"
 version: 1.0.0
+doi: 10.5281/zenodo.24187981
 keywords:
   - electromyography
   - motor unit simulation
@@ -14,5 +15,4 @@ keywords:
   - muscle fatigue
 repository-code: "https://github.com/osmar235/paper1-emg-spectral-simulations"
 license: MIT
-# New Paper 1 software DOI will be assigned by Zenodo after GitHub release.
-# Do not use the pre-existing DOI of the underlying simulator as this repository's DOI.
+# The underlying published motor-unit simulator has a separate DOI: 10.5281/zenodo.19703513.
