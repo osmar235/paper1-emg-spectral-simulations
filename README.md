@@ -4,6 +4,8 @@ This package contains simulation methods used with the manuscript *Spectral comp
 
 The code demonstrates that changes in motor-unit action-potential propagation, signal amplitude, and imposed shared oscillatory input can affect spectral and bilateral coupling measures. **Simulated shared input is known by construction; the study does not identify a cortical, spinal, or subcortical source in human recordings.** Artificial bidirectional channel mixing is a **mathematical estimator sensitivity test**, not a plausible direct muscular cross-talk mechanism between opposite forearms.
 
+**Archived software release:** [v1.0.0 on Zenodo](https://doi.org/10.5281/zenodo.24187981) (DOI: `10.5281/zenodo.24187981`). [GitHub release v1.0.0](https://github.com/osmar235/paper1-emg-spectral-simulations/releases/tag/v1.0.0). The separately published underlying simulator has a different DOI (`10.5281/zenodo.19703513`).
+
 ## Included
 
 - `stage4/`: original bilateral 32-realization Stage 4 simulation, including methods and mathematical checks. Source is unchanged except that two unused default Windows paths were replaced with a generic placeholder in `modules/` for privacy.
